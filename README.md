@@ -51,6 +51,14 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
   *Myra Cheng, Esin Durmus, Dan Jurafsky*
 
+- **Towards Zero-Shot Persona Dialogue Generation with In-Context Learning** [[ACL2023]](https://aclanthology.org/2023.findings-acl.90.pdf)  ![](https://img.shields.io/badge/Methods-green)
+  
+  *Xinchao Xu, Zeyang Lei, Wenquan Wu, Zheng-Yu Niu, Hua Wu, Haifeng Wang*
+
+- **SimOAP: Improve Coherence and Consistency in Persona-based Dialogue Generation via Over-sampling and Post-evaluation** [[ACL2023]](https://aclanthology.org/2023.acl-long.553.pdf)  ![](https://img.shields.io/badge/Methods-green)
+  
+   *Junkai Zhou, Liang Pang, Huawei Shen, Xueqi Cheng*
+
 - **Enhancing Personalized Dialogue Generation with Contrastive Latent Variables: Combining Sparse and Dense Persona** [[ACL2023]](https://aclanthology.org/2023.acl-long.299.pdf)  ![](https://img.shields.io/badge/Methods-green) 
   
   *Yihong Tang, Bo Wang, Miao Fang, Dongming Zhao, Kun Huang, Ruifang He, Yuexian Hou*
