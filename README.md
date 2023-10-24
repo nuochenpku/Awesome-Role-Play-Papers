@@ -22,6 +22,20 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
 
 ## 2023
+
+
+- **Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters** [[EMNLP2023]](https://arxiv.org/pdf/2211.06869)  [[code]](https://nuochenpku.github.io/HPD.github.io) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Nuo Chen, Yan Wang, Haiyun Jiang, Deng Cai, Yuhan Li, Ziyang Chen, Longyue Wang, Jia Li*
+
+- **Building Persona Consistent Dialogue Agents with Offline Reinforcement Learning** [[EMNLP2023]](https://arxiv.org/pdf/2310.10735)    ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Ryan Shea, Zhou Yu*
+
+- **P5: Plug-and-Play Persona Prompting for Personalized Response Selection** [[EMNLP2023]](https://arxiv.org/pdf/2310.06390)    ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Joosung Lee, Minsik Oh, Donghun Lee*
+
 - **CharacterChat: Learning towards Conversational AI with Personalized Social Support** [[Arxiv]](https://arxiv.org/abs/2308.10278)  [[code]](https://github.com/morecry/CharacterChat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
 
    *Quan Tu, Chuanqi Chen, Jinpeng Li, Yanran Li, Shuo Shang, Dongyan Zhao, Ran Wang, Rui Yan*
