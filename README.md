@@ -44,6 +44,14 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
   *Hongru Wang, Minda Hu, Yang Deng, Rui Wang, Fei Mi, Weichao Wang, Yasheng Wang, Wai-Chung Kwan, Irwin King, Kam-Fai Wong*
 
+- **LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming** [[ACL2023]](https://arxiv.org/abs/2306.08401)  [[code]](https://github.com/gaojingsheng/LiveChat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Jingsheng Gao, Yixin Lian, Ziyi Zhou, Yuzhuo Fu, Baoyuan Wang*
+
+- **MPCHAT: Towards Multimodal Persona-Grounded Conversation** [[ACL2023]](https://arxiv.org/abs/2305.16470)  [[code]](http://vision.snu.ac.kr/projects/mpchat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) 
+
+  *Jaewoo Ahn, Yeda Song, Sangdoo Yun, Gunhee Kim*
+
 
 
 ## 🗃 Datasets
