@@ -52,6 +52,10 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
   *Jaewoo Ahn, Yeda Song, Sangdoo Yun, Gunhee Kim*
 
+- **Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models** [[ACL2023]](https://arxiv.org/abs/2305.18189)  ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Myra Cheng, Esin Durmus, Dan Jurafsky*
+
 
 
 ## 🗃 Datasets
