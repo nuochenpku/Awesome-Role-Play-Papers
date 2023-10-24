@@ -39,6 +39,10 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
   *Jingsheng Gao, Yixin Lian, Ziyi Zhou, Yuzhuo Fu, Baoyuan Wang*
 
+- **RECAP: Retrieval-Enhanced Context-Aware Prefix Encoder for Personalized Dialogue Response Generation**  [[ACL2023]](https://aclanthology.org/2023.acl-long.468.pdf)  [[code]](https://github.com/isi-nlp/RECAP)  ![](https://img.shields.io/badge/Methods-green) 
+
+  *Shuai Liu, Hyundong Cho, Marjorie Freedman, Xuezhe Ma, Jonathan May*
+
 - **MPCHAT: Towards Multimodal Persona-Grounded Conversation** [[ACL2023]](https://arxiv.org/abs/2305.16470)  [[code]](http://vision.snu.ac.kr/projects/mpchat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) 
 
   *Jaewoo Ahn, Yeda Song, Sangdoo Yun, Gunhee Kim*
@@ -47,10 +51,16 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
   *Myra Cheng, Esin Durmus, Dan Jurafsky*
 
+- **Enhancing Personalized Dialogue Generation with Contrastive Latent Variables: Combining Sparse and Dense Persona** [[ACL2023]](https://aclanthology.org/2023.acl-long.299.pdf)  ![](https://img.shields.io/badge/Methods-green) 
+  
+  *Yihong Tang, Bo Wang, Miao Fang, Dongming Zhao, Kun Huang, Ruifang He, Yuexian Hou*
 
 - **CharacterChat: Learning towards Conversational AI with Personalized Social Support** [[Arxiv]](https://arxiv.org/abs/2308.10278)  [[code]](https://github.com/morecry/CharacterChat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
 
    *Quan Tu, Chuanqi Chen, Jinpeng Li, Yanran Li, Shuo Shang, Dongyan Zhao, Ran Wang, Rui Yan*
+
+
+
 
 - **Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogue** [[Arxiv]](https://arxiv.org/abs/2310.08840)   ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
 
