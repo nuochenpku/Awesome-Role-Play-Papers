@@ -32,7 +32,7 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
    *Ryan Shea, Zhou Yu*
 
-- **P5: Plug-and-Play Persona Prompting for Personalized Response Selection** [[EMNLP2023]](https://arxiv.org/pdf/2310.06390)    ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+- **P5: Plug-and-Play Persona Prompting for Personalized Response Selection** [[EMNLP2023]](https://arxiv.org/pdf/2310.06390)  [[code]](https://github.com/rungjoo/plug-and-play-prompt-persona)   ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
 
    *Joosung Lee, Minsik Oh, Donghun Lee*
 
