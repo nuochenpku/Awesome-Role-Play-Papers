@@ -12,12 +12,11 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
 ### Keywords Convention
 
-![](https://img.shields.io/badge/Dataset-blue) The key contribution used in the work.
+![](https://img.shields.io/badge/Dataset-blue) The key contribution  in the work.
 
-![](https://img.shields.io/badge/Methods-green) The key contribution used in the work.
+![](https://img.shields.io/badge/Methods-green) The key contribution  in the work.
 
-![](https://img.shields.io/badge/LLMs-brown) The mainly explored backbone of the work.
-
+![](https://img.shields.io/badge/LLMs-brown) The work is related to Large language models.
 
 
 
