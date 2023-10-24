@@ -59,6 +59,10 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
   *Xu Han, Bin Guo, Yoon Jung, Benjamin Yao, Yu Zhang, Xiaohu Liu, Chenlei Guo*
 
+- **Aligning Language Models to User Opinions** [[Arxiv]](https://arxiv.org/abs/2305.14929)  ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *EunJeong Hwang, Bodhisattwa Prasad Majumder, Niket Tandon*
+
 
 ## 🗃 Datasets
 - Visual Dialog, [[CVPR 2017]](https://arxiv.org/abs/1611.08669) [[data]](https://visualdialog.org/) [[code]](https://github.com/batra-mlp-lab/visdial)
