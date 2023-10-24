@@ -55,6 +55,9 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
   *Myra Cheng, Esin Durmus, Dan Jurafsky*
 
+- **PersonaPKT: Building Personalized Dialogue Agents via Parameter-efficient Knowledge Transfer** [[Arxiv]](https://arxiv.org/abs/2306.08126)  ![](https://img.shields.io/badge/Methods-green) 
+
+  *Xu Han, Bin Guo, Yoon Jung, Benjamin Yao, Yu Zhang, Xiaohu Liu, Chenlei Guo*
 
 
 ## 🗃 Datasets
