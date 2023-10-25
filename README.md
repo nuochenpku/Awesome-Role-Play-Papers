@@ -139,7 +139,13 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
     *Junfeng Liu, Christopher Symons, Ranga Raju Vatsavai*
 
-   
+## 2021
+
+- **BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data** [[ACL2021]](https://aclanthology.org/2021.acl-long.14.pdf)  [[code]](https://github.com/songhaoyu/BoB) ![](https://img.shields.io/badge/Methods-green)
+
+     *Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-Nan Zhang, Ting Liu*
+
+
 
 
 
