@@ -93,7 +93,7 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
     *Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan*
   
--- **Learning to Memorize Entailment and Discourse Relations for Persona-Consistent Dialogues** [[AAAI2023]](https://arxiv.org/abs/2301.04871) [[Code]](t https://github.com/Chenrj233/LMEDR)   ![](https://img.shields.io/badge/Methods-green) 
+- **Learning to Memorize Entailment and Discourse Relations for Persona-Consistent Dialogues** [[AAAI2023]](https://arxiv.org/abs/2301.04871) [[Code]](https://github.com/Chenrj233/LMEDR)   ![](https://img.shields.io/badge/Methods-green) 
 
   *Ruijun Chen, Jin Wang, Liang-Chih Yu, Xuejie Zhang*
 
@@ -126,6 +126,10 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 -  **MCP: Self-supervised Pre-training for Personalized Chatbots with Multi-level Contrastive Sampling** [[EMNLP2022]](https://aclanthology.org/2022.findings-emnlp.73.pdf)   ![](https://img.shields.io/badge/Methods-green)
   
     *Zhaoheng Huang, Zhicheng Dou, Yutao Zhu, Zhengyi Ma*
+
+- **Persona-Based Conversational AI: State of the Art and Challenges** [[ICDMW2022]](https://arxiv.org/abs/2212.03699)   ![](https://img.shields.io/badge/Methods-green)
+
+    *Junfeng Liu, Christopher Symons, Ranga Raju Vatsavai*
 
    
 
