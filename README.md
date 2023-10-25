@@ -97,6 +97,14 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
   *Ruijun Chen, Jin Wang, Liang-Chih Yu, Xuejie Zhang*
 
+- **When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities** [[Arxiv]](https://arxiv.org/abs/2307.16376)    ![](https://img.shields.io/badge/Survey-yellow) 
+
+   *Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen*
+
+- **LaMP: When Large Language Models Meet Personalization** [[Arxiv]](https://arxiv.org/abs/2304.11406)  ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Authors: Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani*
+
 ## 2022
 
 - **Improving Personalized Explanation Generation through Visualization** [[ACL2022]](https://aclanthology.org/2022.acl-long.20.pdf)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
