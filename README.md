@@ -96,7 +96,7 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
   
     *Shijie Geng, Zuohui Fu, Yingqiang Ge, Lei Li, Gerard de Melo, Yongfeng Zhang*
 
--  There Are a Thousand Hamlets in a Thousand People’s Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory [[ACL2022]](https://aclanthology.org/2022.acl-long.270.pdf)  ![](https://img.shields.io/badge/Methods-green)
+-  **There Are a Thousand Hamlets in a Thousand People’s Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory** [[ACL2022]](https://aclanthology.org/2022.acl-long.270.pdf)  ![](https://img.shields.io/badge/Methods-green)
 
    *Tingchen Fu, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan*
 
@@ -108,6 +108,17 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
   
     *Yu Cao, Wei Bi, Meng Fang, Shuming Shi, Dacheng Tao*
 
+- **PAIGE: Personalized Adaptive Interactions Graph Encoder for Query Rewriting in Dialogue Systems** [[EMNLP2022]](https://aclanthology.org/2022.emnlp-industry.40.pdf)   ![](https://img.shields.io/badge/Methods-green)
+
+    *Daniel Biś, Saurabh Gupta, Jie Hao, Xing Fan, Chenlei Guo*
+
+-  **AssistSR: Task-oriented Video Segment Retrieval for Personal AI Assistant** [[EMNLP2022]](https://aclanthology.org/2022.findings-emnlp.24.pdf)   ![](https://img.shields.io/badge/Methods-green)
+  
+   *Weixian Lei, Difei Gao, Yuxuan Wang, Dongxing Mao, Zihan Liang, Lingmin Ran, Mike Zheng Shou*
+
+-  **MCP: Self-supervised Pre-training for Personalized Chatbots with Multi-level Contrastive Sampling** [[EMNLP2022]](https://aclanthology.org/2022.findings-emnlp.73.pdf)   ![](https://img.shields.io/badge/Methods-green)
+  
+    *Zhaoheng Huang, Zhicheng Dou, Yutao Zhu, Zhengyi Ma*
 
 ## 🗃 Datasets
 - Visual Dialog, [[CVPR 2017]](https://arxiv.org/abs/1611.08669) [[data]](https://visualdialog.org/) [[code]](https://github.com/batra-mlp-lab/visdial)
