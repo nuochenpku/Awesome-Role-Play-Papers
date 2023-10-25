@@ -89,6 +89,13 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
   *EunJeong Hwang, Bodhisattwa Prasad Majumder, Niket Tandon*
 
+- **Toxicity in ChatGPT: Analyzing Persona-assigned Language Models** [[Arxiv]](https://arxiv.org/abs/2304.05335)   ![](https://img.shields.io/badge/LLMs-brown)
+
+    *Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan*
+  
+-- **Learning to Memorize Entailment and Discourse Relations for Persona-Consistent Dialogues** [[AAAI2023]](https://arxiv.org/abs/2301.04871) [[Code]](t https://github.com/Chenrj233/LMEDR)   ![](https://img.shields.io/badge/Methods-green) 
+
+  *Ruijun Chen, Jin Wang, Liang-Chih Yu, Xuejie Zhang*
 
 ## 2022
 
