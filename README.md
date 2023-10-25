@@ -51,6 +51,14 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
   *Myra Cheng, Esin Durmus, Dan Jurafsky*
 
+- **Learning to Predict Persona Information for Dialogue Personalization without Explicit Persona Description**  [[ACL2023]](https://aclanthology.org/2023.findings-acl.186/)  ![](https://img.shields.io/badge/Methods-green)
+  
+    *Wangchunshu Zhou, Qifei Li, Chenle Li*
+
+- **Towards Robust Personalized Dialogue Generation via Order-Insensitive Representation Regularization** [[ACL2023]](https://aclanthology.org/2023.findings-acl.186/) [[Code]](https://github.com/ChanLiang/ORIG)  ![](https://img.shields.io/badge/Methods-green)
+  
+    *Liang Chen  Hongru Wang  Yang Deng  Wai Chung Kwan  Zezhong Wang  Kam-Fai Wong*
+
 - **Towards Zero-Shot Persona Dialogue Generation with In-Context Learning** [[ACL2023]](https://aclanthology.org/2023.findings-acl.90.pdf)  ![](https://img.shields.io/badge/Methods-green)
   
   *Xinchao Xu, Zeyang Lei, Wenquan Wu, Zheng-Yu Niu, Hua Wu, Haifeng Wang*
@@ -66,8 +74,6 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 - **CharacterChat: Learning towards Conversational AI with Personalized Social Support** [[Arxiv]](https://arxiv.org/abs/2308.10278)  [[code]](https://github.com/morecry/CharacterChat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
 
    *Quan Tu, Chuanqi Chen, Jinpeng Li, Yanran Li, Shuo Shang, Dongyan Zhao, Ran Wang, Rui Yan*
-
-
 
 
 - **Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogue** [[Arxiv]](https://arxiv.org/abs/2310.08840)   ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
