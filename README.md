@@ -127,5 +127,4 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
 
 
-<img src="http://profile-counter.glitch.me/Awesome-Pesonalized-Papers/count.svg" alt="visit_count" style="width: 30%; text-align: center; margin-left: 40%">
 
