@@ -92,7 +92,21 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
 ## 2022
 
-- 
+- **Improving Personalized Explanation Generation through Visualization** [[ACL2022]](https://aclanthology.org/2022.acl-long.20.pdf)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
+  
+    *Shijie Geng, Zuohui Fu, Yingqiang Ge, Lei Li, Gerard de Melo, Yongfeng Zhang*
+
+-  There Are a Thousand Hamlets in a Thousand People’s Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory [[ACL2022]](https://aclanthology.org/2022.acl-long.270.pdf)  ![](https://img.shields.io/badge/Methods-green)
+
+   *Tingchen Fu, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan*
+
+- **Long Time No See! Open-Domain Conversation with Long-Term Persona Memory** [[ACL2022]](https://aclanthology.org/2022.findings-acl.207/)  [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
+
+    *Xinchao Xu, Zhibin Gou, Wenquan Wu, Zheng-Yu Niu, Hua Wu, Haifeng Wang, Shihang Wang*
+
+- **A Model-agnostic Data Manipulation Method for Persona-based Dialogue Generation** [[ACL2022]](https://aclanthology.org/2022.acl-long.550.pdf)   ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
+  
+    *Yu Cao, Wei Bi, Meng Fang, Shuming Shi, Dacheng Tao*
 
 
 ## 🗃 Datasets
