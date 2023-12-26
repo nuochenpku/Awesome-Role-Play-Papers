@@ -139,6 +139,10 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 
     *Junfeng Liu, Christopher Symons, Ranga Raju Vatsavai*
 
+- **Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation** [[NAACL2022]](https://arxiv.org/abs/2204.08128)   ![](https://img.shields.io/badge/Methods-green)
+
+    *Hanxun Zhong, Zhicheng Dou, Yutao Zhu, Hongjin Qian, Ji-Rong Wen*
+
 ## 2021
 
 - **BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data** [[ACL2021]](https://aclanthology.org/2021.acl-long.14.pdf)  [[code]](https://github.com/songhaoyu/BoB) ![](https://img.shields.io/badge/Methods-green)
