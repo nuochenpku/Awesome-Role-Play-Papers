@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 ![](https://img.shields.io/badge/PaperNumber-65-brightgreen)
 
-List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized Research***. This repo contains a majority of research works in the personalized dialogue systems field, but it still may not encompass all the noteworthy works. 
+List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized LLMs/Dialogue Agent Research***. This repo contains a majority of research works in the personalized dialogue systems field, but it still may not encompass all the noteworthy works. 
 
 > This repo is under W.I.P. Please feel free to open issues and make PRs!
 
