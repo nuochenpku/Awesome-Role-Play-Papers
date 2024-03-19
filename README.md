@@ -19,6 +19,18 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized R
 ![](https://img.shields.io/badge/LLMs-brown) The work is related to Large language models.
 
 
+## 2024 
+- **Large Language Models are Superpositions of All Characters: Attaining
+Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12474) [[Code]](https://github.com/OFA-Sys/Ditto)  ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Keming Lu, Bowen Yu, Chang Zhou, Jingren Zhou*
+
+- **Enhancing Role-playing Systems through Aggressive Queries: Evaluation and Improvement** [[Arxiv]](https://arxiv.org/abs/2402.10618)  ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *KYihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai*
+
+
+
 
 ## 2023
 
