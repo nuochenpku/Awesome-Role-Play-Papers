@@ -43,10 +43,16 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
 
 
 - **CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation** [[Arxiv]](https://arxiv.org/abs/2401.01275) [[Code]](https://github.com/morecry/CharacterEval) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
-- *Quan Tu, Shilong Fan, Zihang Tian, Rui Yan*
+
+  *Quan Tu, Shilong Fan, Zihang Tian, Rui Yan*
 
 - **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models** [[Arxiv]](https://arxiv.org/abs/2311.16832) [[Code]](https://github.com/thu-coai/CharacterGLM-6B) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
-  *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang*
+
+    *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang*
+
+- **ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human** [[Arxiv]](https://arxiv.org/pdf/2304.07849) [[Code]](https://github.com/X-PLUG/ChatPLUG) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)![](https://img.shields.io/badge/LLMs-brown)
+
+   *Junfeng Tian, Hehong Chen, Guohai Xu, Ming Yan, Xing Gao, Jianhai Zhang, Chenliang Li, Jiayi Liu, Wenshen Xu, Haiyang Xu, Qi Qian, Wei Wang, Qinghao Ye, Jiejing Zhang, Ji Zhang, Fei Huang, Jingren Zhou*
 
 - **Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters** [[EMNLP2023]](https://arxiv.org/pdf/2211.06869)  [[code]](https://nuochenpku.github.io/HPD.github.io) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
 
