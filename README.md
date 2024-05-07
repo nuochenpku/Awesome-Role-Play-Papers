@@ -74,7 +74,7 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
 
   *Shuai Liu, Hyundong Cho, Marjorie Freedman, Xuezhe Ma, Jonathan May*
 
-- **MPCHAT: Towards Multimodal Persona-Grounded Conversation** [[ACL2023]](https://arxiv.org/abs/2305.16470)  [[code]](http://vision.snu.ac.kr/projects/mpchat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) 
+- **MPCHAT: Towards Multimodal Persona-Grounded Conversation** [[ACL2023]](https://aclanthology.org/2023.acl-long.189/)  [[code]](http://vision.snu.ac.kr/projects/mpchat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) 
 
   *Jaewoo Ahn, Yeda Song, Sangdoo Yun, Gunhee Kim*
 
