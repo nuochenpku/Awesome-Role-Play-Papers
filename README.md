@@ -19,6 +19,69 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized L
 ![](https://img.shields.io/badge/LLMs-brown) The work is related to Large language models.
 
 
+
+## Data
+
+
+### 1. Character-based Role-Playing Datasets:
+
+- **TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models**  [[ACL 2024]](https://arxiv.org/abs/2405.18027) [[Code]](https://github.com/ahnjaewoo/timechara)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim*
+  
+- **RoleInteract: Evaluating the Social Interaction of Role-Playing Agents** [[Arxiv]](https://arxiv.org/abs/2403.13679) [[Code]](https://github.com/X-PLUG/RoleInteract)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Hongzhan Chen, Hehong Chen, Ming Yan, Wenshen Xu, Xing Gao, Weizhou Shen, Xiaojun Quan, Chenliang Li, Ji Zhang, Fei Huang, Jingren Zhou*
+  
+- **Large Language Models are Superpositions of All Characters: Attaining
+Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12474) [[Code]](https://github.com/OFA-Sys/Ditto)  ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Keming Lu, Bowen Yu, Chang Zhou, Jingren Zhou*
+
+
+- **CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation** [[Arxiv]](https://arxiv.org/abs/2401.01275) [[Code]](https://github.com/morecry/CharacterEval) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Quan Tu, Shilong Fan, Zihang Tian, Rui Yan*
+
+- **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models** [[Arxiv]](https://arxiv.org/abs/2311.16832) [[Code]](https://github.com/thu-coai/CharacterGLM-6B) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
+
+    *Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang*
+
+- **ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human** [[Arxiv]](https://arxiv.org/pdf/2304.07849) [[Code]](https://github.com/X-PLUG/ChatPLUG) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)![](https://img.shields.io/badge/LLMs-brown)
+
+   *Junfeng Tian, Hehong Chen, Guohai Xu, Ming Yan, Xing Gao, Jianhai Zhang, Chenliang Li, Jiayi Liu, Wenshen Xu, Haiyang Xu, Qi Qian, Wei Wang, Qinghao Ye, Jiejing Zhang, Ji Zhang, Fei Huang, Jingren Zhou*
+
+- **Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters** [[EMNLP2023]](https://arxiv.org/pdf/2211.06869)  [[code]](https://nuochenpku.github.io/HPD.github.io) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Nuo Chen, Yan Wang, Haiyun Jiang, Deng Cai, Yuhan Li, Ziyang Chen, Longyue Wang, Jia Li*
+
+- **CharacterChat: Learning towards Conversational AI with Personalized Social Support** [[Arxiv]](https://arxiv.org/abs/2308.10278)  [[code]](https://github.com/morecry/CharacterChat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Quan Tu, Chuanqi Chen, Jinpeng Li, Yanran Li, Shuo Shang, Dongyan Zhao, Ran Wang, Rui Yan*
+  
+- **LaMP: When Large Language Models Meet Personalization** [[Arxiv]](https://arxiv.org/abs/2304.11406)  ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Authors: Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani*
+
+### 2. Persona-based Role-Playing Datasets:
+
+- **LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming** [[ACL2023]](https://arxiv.org/abs/2306.08401)  [[code]](https://github.com/gaojingsheng/LiveChat) ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Jingsheng Gao, Yixin Lian, Ziyi Zhou, Yuzhuo Fu, Baoyuan Wang*
+
+- **MPCHAT: Towards Multimodal Persona-Grounded Conversation** [[ACL2023]](https://aclanthology.org/2023.acl-long.189/)  [[code]](http://vision.snu.ac.kr/projects/mpchat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
+
+-  **Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogue** [[Arxiv]](https://arxiv.org/abs/2310.08840)   ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Hongru Wang, Minda Hu, Yang Deng, Rui Wang, Fei Mi, Weichao Wang, Yasheng Wang, Wai-Chung Kwan, Irwin King, Kam-Fai Wong*
+
+- **Long Time No See! Open-Domain Conversation with Long-Term Persona Memory** [[ACL2022]](https://aclanthology.org/2022.findings-acl.207/)  [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
+
+    *Xinchao Xu, Zhibin Gou, Wenquan Wu, Zheng-Yu Niu, Hua Wu, Haifeng Wang, Shihang Wang*
+
+
+
+
 ## 2024 
 
 - **TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models**  [[ACL 2024]](https://arxiv.org/abs/2405.18027) [[Code]](https://github.com/ahnjaewoo/timechara)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
@@ -36,11 +99,6 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized L
 Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12474) [[Code]](https://github.com/OFA-Sys/Ditto)  ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
 
    *Keming Lu, Bowen Yu, Chang Zhou, Jingren Zhou*
-
-- **Enhancing Role-playing Systems through Aggressive Queries: Evaluation and Improvement** [[Arxiv]](https://arxiv.org/abs/2402.10618)  ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
-
-   *KYihong Tang, Jiao Ou, Che Liu, Fuzheng Zhang, Di Zhang, Kun Gai*
-
 
 
 
