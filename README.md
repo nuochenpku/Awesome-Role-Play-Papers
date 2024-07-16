@@ -7,10 +7,15 @@
 
 List of **Papers**, **Datasets** and **Code Repositories** for ***Role-Playing with language models***. This repo contains a majority of research works in the role-playing field, but it still may not encompass all the noteworthy works. 
 
+🚀🚀🚀 Our thoughts and review of  role-playing are in this survey: .
+
 
 > If you find we miss some related works or have wrong clarifications, please contact us or open issues!
 > 
 > This repo is under W.I.P. Please feel free to open issues and make PRs!
+
+
+![](role-playing_key_components.png)
 
 
 ### Keywords Convention
