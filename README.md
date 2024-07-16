@@ -8,7 +8,7 @@
 List of **Papers**, **Datasets** and **Code Repositories** for ***Role-Playing with language models***. This repo contains a majority of research works in the role-playing field, but it still may not encompass all the noteworthy works. 
 
 
-> If you find we ignore some related works, please contact us or open issues!
+> If you find we miss some related works, please contact us or open issues!
 > 
 > This repo is under W.I.P. Please feel free to open issues and make PRs!
 
@@ -31,6 +31,27 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Role-Playing w
 - **TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models**  [[ACL 2024]](https://arxiv.org/abs/2405.18027) [[Code]](https://github.com/ahnjaewoo/timechara)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
 
    *Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim*
+
+- **Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works** [[Arxiv]](https://arxiv.org/abs/2404.12726) [[Code]](https://github.com/Joanna0123/character_profiling)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Xinfeng Yuan, Siyu Yuan, Yuhan Cui, Tianhe Lin, Xintao Wang, Rui Xu, Jiangjie Chen, Deqing Yang*
+
+- **Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?** [[Arxiv]](https://arxiv.org/abs/2404.12138)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Rui Xu, Xintao Wang, Jiangjie Chen, Siyu Yuan, Xinfeng Yuan, Jiaqing Liang, Zulong Chen, Xiaoqing Dong, Yanghua Xiao*
+
+
+- **PIPPA: A Partially Synthetic Conversational Dataset** [[Arxiv]](https://arxiv.org/abs/2308.05884) [[Code]](https://huggingface.co/datasets/PygmalionAI/PIPPA) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Tear Gosling, Alpin Dale, Yinhe Zheng*
+
+- **Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models.** [[Arxiv]](https://arxiv.org/abs/2310.00746) [[Code]](https://github.com/InteractiveNLP-Team/RoleLLM-public) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Jian Yang, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Stephen W. Huang, Jie Fu, Junran Peng*
+
+- **Character-LLM: A Trainable Agent for Role-Playing** [[emnlp2023]](https://arxiv.org/abs/2310.10158) [[Code]](https://github.com/choosewhatulike/trainable-agents)  ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu*
   
 - **RoleInteract: Evaluating the Social Interaction of Role-Playing Agents** [[Arxiv]](https://arxiv.org/abs/2403.13679) [[Code]](https://github.com/X-PLUG/RoleInteract)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
 
@@ -41,10 +62,17 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
 
    *Keming Lu, Bowen Yu, Chang Zhou, Jingren Zhou*
 
-
 - **CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation** [[Arxiv]](https://arxiv.org/abs/2401.01275) [[Code]](https://github.com/morecry/CharacterEval) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
 
   *Quan Tu, Shilong Fan, Zihang Tian, Rui Yan*
+
+ - **ChatHaruhi: Reviving Anime Character in Reality via Large Language Model** [[Arxiv]](https://arxiv.org/abs/2308.09597) [[Code]](https://github.com/LC1332/Chat-Haruhi-Suzumiya) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Cheng Li, Ziang Leng, Chenxi Yan, Junyi Shen, Hao Wang, Weishi MI, Yaying Fei, Xiaoyang Feng, Song Yan, HaoSheng Wang, Linkang Zhan, Yaokai Jia, Pingyu Wu, Haozhen Sun*
+
+ - **PRODIGy: a PROfile-based DIalogue Generation dataset** [[Arxiv]](https://arxiv.org/abs/2311.05195)  ![](https://img.shields.io/badge/Dataset-blue) ![] ![](https://img.shields.io/badge/LLMs-brown)
+
+    *Daniela Occhipinti, Serra Sinem Tekiroglu, Marco Guerini*
 
 - **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models** [[Arxiv]](https://arxiv.org/abs/2311.16832) [[Code]](https://github.com/thu-coai/CharacterGLM-6B) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
 
@@ -71,6 +99,10 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
 - **LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming** [[ACL2023]](https://arxiv.org/abs/2306.08401)  [[code]](https://github.com/gaojingsheng/LiveChat) ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
 
   *Jingsheng Gao, Yixin Lian, Ziyi Zhou, Yuzhuo Fu, Baoyuan Wang*
+
+- **When Crowd Meets Persona: Creating a Large-Scale Open-Domain Persona Dialogue Corpus.** [[Arxiv]](https://arxiv.org/abs/2304.00350) ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Won Ik Cho, Yoon Kyung Lee, Seoyeon Bae, Jihwan Kim, Sangah Park, Moosung Kim, Sowon Hahn, Nam Soo Kim*
 
 - **MPCHAT: Towards Multimodal Persona-Grounded Conversation** [[ACL2023]](https://aclanthology.org/2023.acl-long.189/)  [[code]](http://vision.snu.ac.kr/projects/mpchat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
   
