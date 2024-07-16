@@ -5,8 +5,11 @@
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 ![](https://img.shields.io/badge/PaperNumber-65-brightgreen)
 
-List of **Papers**, **Datasets** and **Code Repositories** for ***Personalized LLMs/Dialogue Agent Research***. This repo contains a majority of research works in the personalized dialogue systems field, but it still may not encompass all the noteworthy works. 
+List of **Papers**, **Datasets** and **Code Repositories** for ***Role-Playing with language models***. This repo contains a majority of research works in the role-playing field, but it still may not encompass all the noteworthy works. 
 
+
+> If you find we ignore some related works, please contact us or open issues!
+> 
 > This repo is under W.I.P. Please feel free to open issues and make PRs!
 
 
@@ -70,6 +73,8 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
   *Jingsheng Gao, Yixin Lian, Ziyi Zhou, Yuzhuo Fu, Baoyuan Wang*
 
 - **MPCHAT: Towards Multimodal Persona-Grounded Conversation** [[ACL2023]](https://aclanthology.org/2023.acl-long.189/)  [[code]](http://vision.snu.ac.kr/projects/mpchat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
+  
+  *Jaewoo Ahn, Yeda Song, Sangdoo Yun, Gunhee Kim*
 
 -  **Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogue** [[Arxiv]](https://arxiv.org/abs/2310.08840)   ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
 
