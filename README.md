@@ -86,17 +86,22 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
 
   *Nuo Chen, Yan Wang, Haiyun Jiang, Deng Cai, Yuhan Li, Ziyang Chen, Longyue Wang, Jia Li*
 
+- **Beyond Retrieval: Embracing Compressive Memory in Real-World
+Long-Term Conversations** [[Arxiv]](https://arxiv.org/abs/2402.11975) [[code]](https://github.com/nuochenpku/COMEDY) ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Nuo Chen, Yan Wang, Haiyun Jiang, Deng Cai, Yuhan Li, Ziyang Chen, Longyue Wang, Jia Li*
+
 - **CharacterChat: Learning towards Conversational AI with Personalized Social Support** [[Arxiv]](https://arxiv.org/abs/2308.10278)  [[code]](https://github.com/morecry/CharacterChat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
 
    *Quan Tu, Chuanqi Chen, Jinpeng Li, Yanran Li, Shuo Shang, Dongyan Zhao, Ran Wang, Rui Yan*
   
 - **LaMP: When Large Language Models Meet Personalization** [[Arxiv]](https://arxiv.org/abs/2304.11406)  ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
 
-  *Authors: Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani*
+  *Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani*
 
 ### 2. Persona-based Role-Playing Datasets:
 
-- **LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming** [[ACL2023]](https://arxiv.org/abs/2306.08401)  [[code]](https://github.com/gaojingsheng/LiveChat) ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
+- **LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming.** [[ACL2023]](https://arxiv.org/abs/2306.08401)  [[code]](https://github.com/gaojingsheng/LiveChat) ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
 
   *Jingsheng Gao, Yixin Lian, Ziyi Zhou, Yuzhuo Fu, Baoyuan Wang*
 
@@ -104,17 +109,62 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
 
   *Won Ik Cho, Yoon Kyung Lee, Seoyeon Bae, Jihwan Kim, Sangah Park, Moosung Kim, Sowon Hahn, Nam Soo Kim*
 
+
+- **RealPersonaChat: A Realistic Persona Chat Corpus with Interlocutors’ Own Personalities.** [[PACLIC2023]](https://aclanthology.org/2023.paclic-1.85/) [[Code]](https://github.com/nu-dialogue/real-persona-chat) ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Sanae Yamashita, Koji Inoue, Ao Guo, Shota Mochizuki, Tatsuya Kawahara, Ryuichiro Higashinaka*
+  
+
+- **Multimodal Persona Based Generation of Comic Dialogs.** [[ACL2023]](https://aclanthology.org/2023.acl-long.791/) [[Code]](https://github.com/Atenrev/comics-dialogue-generation) ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Harsh Agrawal, Aditya Mishra, Manish Gupta, Mausam*
+  
+- **Enhancing Chat Language Models by Scaling High-quality Instructional Conversations** [[EMNLP2023]](https://arxiv.org/abs/2112.08619/) [[Code]](https://github.com/thunlp/UltraChat)   ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Ning Ding, Yulin Chen, Bokai Xu, Yujia Qin, Zhi Zheng, Shengding Hu, Zhiyuan Liu, Maosong Sun, Bowen Zhou*
+
+
 - **MPCHAT: Towards Multimodal Persona-Grounded Conversation** [[ACL2023]](https://aclanthology.org/2023.acl-long.189/)  [[code]](http://vision.snu.ac.kr/projects/mpchat) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
   
   *Jaewoo Ahn, Yeda Song, Sangdoo Yun, Gunhee Kim*
 
 -  **Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogue** [[Arxiv]](https://arxiv.org/abs/2310.08840)   ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
 
-  *Hongru Wang, Minda Hu, Yang Deng, Rui Wang, Fei Mi, Weichao Wang, Yasheng Wang, Wai-Chung Kwan, Irwin King, Kam-Fai Wong*
+    *Hongru Wang, Minda Hu, Yang Deng, Rui Wang, Fei Mi, Weichao Wang, Yasheng Wang, Wai-Chung Kwan, Irwin King, Kam-Fai Wong*
 
 - **Long Time No See! Open-Domain Conversation with Long-Term Persona Memory** [[ACL2022]](https://aclanthology.org/2022.findings-acl.207/)  [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
 
     *Xinchao Xu, Zhibin Gou, Wenquan Wu, Zheng-Yu Niu, Hua Wu, Haifeng Wang, Shihang Wang*
+  
+- **Profile Consistency Identification for Open-domain Dialogue Agents** [[EMNLP2022]](https://aclanthology.org/2020.emnlp-main.539.pdf)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
+
+    *Haoyu Song, Yan Wang, Wei-Nan Zhang, Zhengyu Zhao, Ting Liu, Xiaojiang Liu*
+
+- **Pchatbot: A large-scale dataset for personalized chatbot** [[SIGIR2021]](https://dl.acm.org/doi/abs/10.1145/3404835.3463239)  [[code]](https://github.com/qhjqhj00/Pchatbot) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
+
+    *Hongjin Qian, Xiaohe Li, Hanxun Zhong, Yu Guo, Yueyuan Ma, Yutao Zhu, Zhanliang Liu, Zhicheng Dou, Ji-Rong Wen*
+
+- **Personalized Dialogue Generation with Diversified Traits** [[Arxiv]](https://arxiv.org/abs/1901.09672)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
+
+    *Yinhe Zheng, Guanyi Chen, Minlie Huang, Song Liu, Xuan Zhu*
+
+- **Personalizing Dialogue Agents: I have a dog, do you have pets too?** [[ACL2018]](https://aclanthology.org/P18-1205/)  [[code]](https://github.com/facebookresearch/ParlAI) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
+
+    *Saizheng Zhang, Emily Dinan, Jack Urbanek, Arthur Szlam, Douwe Kiela, Jason Weston*
+
+- **Wizard of Wikipedia: Knowledge-Powered Conversational Agents** [[ICLR2018]](https://openreview.net/forum?id=r1l73iRqKm/)  [[code]](https://paperswithcode.com/dataset/wizard-of-wikipedia) ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green)
+
+    *Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli, Jason Weston*
+
+- **FriendsQA: Open-Domain Question Answering on TV Show Transcripts** [[SIGDIAL2019]](https://aclanthology.org/W19-5923/)   ![](https://img.shields.io/badge/Dataset-blue) 
+
+    *Zhengzhe Yang, Jinho D. Choi*
+
+- **Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge** [[Arxiv]](https://arxiv.org/abs/2112.08619/) [[Code]](https://github.com/pkchat-focus/FoCus)   ![](https://img.shields.io/badge/Dataset-blue) 
+
+  *Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, Suhyune Son, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim*
+
+
 
 
 
@@ -234,7 +284,7 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
 
 - **LaMP: When Large Language Models Meet Personalization** [[Arxiv]](https://arxiv.org/abs/2304.11406)  ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
 
-  *Authors: Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani*
+   *Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani*
 
 ## 2022
 
