@@ -23,7 +23,7 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Role-Playing w
 
 
 
-## 1.1Data
+## 1. Data
 
 
 ### 1.1 Character-based Role-Playing Datasets:
