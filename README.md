@@ -7,7 +7,7 @@
 
 List of **Papers**, **Datasets** and **Code Repositories** for ***Role-Playing with language models***. This repo contains a majority of research works in the role-playing field, but it still may not encompass all the noteworthy works. 
 
-🚀🚀🚀 Our thoughts and review of  role-playing are in this survey: .
+🚀🚀🚀 Our thoughts and review of  role-playing are in this survey: [**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/abs/2407.11484).
 
 
 > If you find we miss some related works or have wrong clarifications, please contact us or open issues!
