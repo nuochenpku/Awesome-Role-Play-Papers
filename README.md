@@ -291,6 +291,32 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
      *Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-Nan Zhang, Ting Liu*
 
 
+## 3. Role-Playing Language Model Agents (RPLAs)
+
+
+
+- **Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** [[NAACL2024]](https://aclanthology.org/2024.naacl-long.15/) [[Code]](https://github.com/MikeWangWZHL/Solo-Performance-Prompting.git) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji*
+
+- **HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing** [[Arxiv]](https://arxiv.org/abs/2406.11683)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Jing Chen, Xinyu Zhu, Cheng Yang, Chufan Shi, Yadong Xi, Yuxiang Zhang, Junjie Wang, Jiashu Pu, Rongsheng Zhang, Yujiu Yang, Tian Feng*
+
+- **On the Decision-Making Abilities in Role-Playing using Large Language Models** [[Arxiv]](https://arxiv.org/abs/2402.18807)   ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Chenglei Shen, Guofu Xie, Xiao Zhang, Jun Xu*
+  
+
+- **Generative Agents: Interactive Simulacra of Human Behavior** [[UIST23]](https://arxiv.org/abs/2304.03442)  [[Code]](https://github.com/mkturkcan/generative-agents)  ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein*
+
+- **Humanoid Agents: Platform for Simulating Human-like Generative Agents** [[EMNLP2023]](https://aclanthology.org/2023.emnlp-demo.15.pdf)  [[Code]](https://github.com/HumanoidAgents/HumanoidAgents)  ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Zhilin Wang, Yu Ying Chiu, Yu Cheung Chiu*
+
+
 
 
 
