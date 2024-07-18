@@ -75,7 +75,7 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
 
    *Cheng Li, Ziang Leng, Chenxi Yan, Junyi Shen, Hao Wang, Weishi MI, Yaying Fei, Xiaoyang Feng, Song Yan, HaoSheng Wang, Linkang Zhan, Yaokai Jia, Pingyu Wu, Haozhen Sun*
 
- - **PRODIGy: a PROfile-based DIalogue Generation dataset** [[Arxiv]](https://arxiv.org/abs/2311.05195)  ![](https://img.shields.io/badge/Dataset-blue) ![] ![](https://img.shields.io/badge/LLMs-brown)
+ - **PRODIGy: a PROfile-based DIalogue Generation dataset** [[Arxiv]](https://arxiv.org/abs/2311.05195)  ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
 
     *Daniela Occhipinti, Serra Sinem Tekiroglu, Marco Guerini*
 
