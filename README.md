@@ -1,4 +1,4 @@
-# Awesome-Role Play-Papers
+# Awesome-Role Playing-Papers
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/ModelEditingPapers) 
 ![](https://img.shields.io/github/last-commit/nuochenpku/Awesome-Pesonalized-Papers?color=green) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
