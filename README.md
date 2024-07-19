@@ -316,6 +316,9 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
 
    *Zhilin Wang, Yu Ying Chiu, Yu Cheung Chiu*
 
+- **Language models show human-like content effects on reasoning tasks** [[PNAS Nexus]](https://arxiv.org/abs/2207.07051)   ![](https://img.shields.io/badge/Methods-green) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Ishita Dasgupta, Andrew K. Lampinen, Stephanie C. Y. Chan, Hannah R. Sheahan, Antonia Creswell, Dharshan Kumaran, James L. McClelland, Felix Hill*
 
 
 
