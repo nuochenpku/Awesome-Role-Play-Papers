@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/last-commit/nuochenpku/Awesome-Pesonalized-Papers?color=green) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
-![](https://img.shields.io/badge/PaperNumber-65-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-72-brightgreen)
 
 List of **Papers**, **Datasets** and **Code Repositories** for ***Role-Playing with language models***. This repo contains a majority of research works in the role-playing field, but it still may not encompass all the noteworthy works. 
 
