@@ -290,6 +290,10 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
 
     *Hanxun Zhong, Zhicheng Dou, Yutao Zhu, Hongjin Qian, Ji-Rong Wen*
 
+- **COSPLAY: Concept Set Guided Personalized Dialogue Generation Across Both Party Personas** [[SIGIR2022]](https://dl.acm.org/doi/10.1145/3477495.3531957)  ![](https://img.shields.io/badge/Methods-green)
+
+    *Chen Xu, Piji Li, Wei Wang, Haoran Yang, Siyun Wang, Chuangbai Xiao*
+
 - **BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data** [[ACL2021]](https://aclanthology.org/2021.acl-long.14.pdf)  [[code]](https://github.com/songhaoyu/BoB) ![](https://img.shields.io/badge/Methods-green)
 
      *Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-Nan Zhang, Ting Liu*
