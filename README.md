@@ -290,7 +290,7 @@ Arbitrary Role-play via Self-Alignment** [[Arxiv]](https://arxiv.org/abs/2401.12
 
     *Hanxun Zhong, Zhicheng Dou, Yutao Zhu, Hongjin Qian, Ji-Rong Wen*
 
-- **COSPLAY: Concept Set Guided Personalized Dialogue Generation Across Both Party Personas** [[SIGIR2022]](https://dl.acm.org/doi/10.1145/3477495.3531957)  ![](https://img.shields.io/badge/Methods-green)
+- **COSPLAY: Concept Set Guided Personalized Dialogue Generation Across Both Party Personas** [[SIGIR2022]](https://dl.acm.org/doi/10.1145/3477495.3531957) [[Code]](https://github.com/chenxu05037/COSPLAY) ![](https://img.shields.io/badge/Methods-green)
 
     *Chen Xu, Piji Li, Wei Wang, Haoran Yang, Siyun Wang, Chuangbai Xiao*
 
