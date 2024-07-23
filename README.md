@@ -33,6 +33,10 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Role-Playing w
 
 ### 1.1 Character-based Role-Playing Datasets:
 
+- **Characteristic AI Agents via Large Language Models**  [[COLING 2024]](https://arxiv.org/abs/2403.12368) [[Code]](https://github.com/nuaa-nlp/Character100)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
+
+   *Xi Wang, Hongliang Dai, Shen Gao, Piji Li*
+
 - **TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models**  [[ACL 2024]](https://arxiv.org/abs/2405.18027) [[Code]](https://github.com/ahnjaewoo/timechara)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
 
    *Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim*
