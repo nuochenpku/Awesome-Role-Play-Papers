@@ -33,6 +33,10 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Role-Playing w
 
 ### 1.1 Character-based Role-Playing Datasets:
 
+- **MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents** [[Arxiv]](https://arxiv.org/abs/2408.04203) [[Code]](https://github.com/YanqiDai/MMRole) ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
+
+  *Yanqi Dai, Huanran Hu, Lei Wang, Shengjie Jin, Xu Chen, Zhiwu Lu*
+
 - **Characteristic AI Agents via Large Language Models**  [[COLING 2024]](https://arxiv.org/abs/2403.12368) [[Code]](https://github.com/nuaa-nlp/Character100)  ![](https://img.shields.io/badge/Dataset-blue) ![](https://img.shields.io/badge/LLMs-brown)
 
    *Xi Wang, Hongliang Dai, Shen Gao, Piji Li*
@@ -109,6 +113,8 @@ Long-Term Conversations** [[Arxiv]](https://arxiv.org/abs/2402.11975) [[code]](h
   *Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani*
 
 ### 1.2 Persona-based Role-Playing Datasets:
+
+
 
 - **LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming.** [[ACL2023]](https://arxiv.org/abs/2306.08401)  [[code]](https://github.com/gaojingsheng/LiveChat) ![](https://img.shields.io/badge/Dataset-blue)  ![](https://img.shields.io/badge/LLMs-brown)
 
